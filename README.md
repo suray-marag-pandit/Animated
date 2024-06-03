@@ -19,5 +19,4 @@ This project demonstrates how to create smooth scrolling animations using GSAP (
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/your-username/your-repo.git](https://github.com/suray-marag-pandit/Animinated.git
